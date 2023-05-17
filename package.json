@@ -1,19 +1,23 @@
 {
   "name": "node-connector-jering",
   "version": "1.0.5",
-  "description": "A complete Node.js project template using TypeScript and following general best practices.",
+  "description": "A export connector no connect with Jering and add functions to c# inside node_modules",
   "keywords": [
-    "typescript",
-    "template"
+    "jering",
+    "csharp",
+    "node",
+    "functions",
+    "connector",
+    ".net"
   ],
   "author": {
-    "name": "Chris Wells",
-    "url": "https://chriswells.io"
+    "name": "Willian Ferreira",
+    "url": "https://willfeerr.com"
   },
   "license": "BSD-3-Clause",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chriswells0/node-typescript-template.git"
+    "url": "https://github.com/willfeerr/node-connector-jering.git"
   },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
